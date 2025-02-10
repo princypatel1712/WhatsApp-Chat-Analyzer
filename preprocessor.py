@@ -83,5 +83,4 @@ def preprocess(data):
     df['is_media'] = df['message'].str.contains('<Media omitted>', case=False)
     
     print(f"Total messages processed: {len(df)}")
-    
     return df
