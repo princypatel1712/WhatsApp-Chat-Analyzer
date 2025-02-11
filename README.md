@@ -7,7 +7,6 @@ Whatsapp has quickly become the world’s most popular text and voice messaging 
 - But I thought why not do **Data Analysis on a WhatsApp group chat** of *college students* and find out interesting insights about who is most active,Most Busy Day and Month , the most used emoji, the most actives times of the day, Top User interactions, Chat Statistics, Message Timing Patterns, Most Common Words, Monthly Timeline, WordCloud, Weekly Activity Map? 
 
 - These would be some interesting insights for sure, more for me than for you, since the people in this chat are people I know personally.
-
 # *Data Retrieval & Preprocessing*
 
 ### Beginning. How do I export my conversations? From Where To Obtain Data?
