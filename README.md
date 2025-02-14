@@ -121,7 +121,6 @@ streamlit run app.py
 ```
 
 # *Live Demo*
-
 https://whatsapp-chat-analyzer-by-prinsi-patel.streamlit.app/
 #  *Limitation of Project*
 
