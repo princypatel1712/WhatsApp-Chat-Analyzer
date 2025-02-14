@@ -129,7 +129,6 @@ https://whatsapp-chat-analyzer-by-prinsi-patel.streamlit.app/
 - Supports only txt extension.
 - Only supports English languages.
 
-
 # *Exploratory Data Analysis*
 
 
