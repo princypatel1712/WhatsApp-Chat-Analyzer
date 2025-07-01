@@ -123,7 +123,7 @@ streamlit run app.py
 
 # *Live Demo*
 
-https://lnkd.in/dje58-wF
+https://whatsapp-chat-analyzer-by-prinsi-patel.streamlit.app/
 
 #  *Limitation of Project*
 
